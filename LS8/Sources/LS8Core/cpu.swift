@@ -42,7 +42,7 @@ class CPU {
         var address = 0
         
         for cmd in args {
-            strValue =
+            
         }
         
         
